@@ -1,5 +1,6 @@
+// let chai = require('chai');
 const expect = chai.expect;
-const assert = chai.assert;
+// const assert = chai.assert;
 // const listItem = expect('../js/shopping-list-item.js');
 // const lList = expect('../js/shopping-list.js');
 

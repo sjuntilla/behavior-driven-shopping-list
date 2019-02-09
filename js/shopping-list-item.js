@@ -13,7 +13,7 @@ class Item {
     }
     render() {
         let box;
-        let liStart = '<li>';
+        let liStart;
         let liEnd = '</li>';
         let sStart = '<span>';
         let sEnd = '</span>';
